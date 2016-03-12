@@ -1,2 +1,2 @@
 #This is a test scrit
-Write-Host "test"
+Write-Host "test2"
